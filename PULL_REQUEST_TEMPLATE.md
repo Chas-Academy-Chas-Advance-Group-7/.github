@@ -1,5 +1,5 @@
 ## Summary
-Describe what this PR does and why.  
+Describe what this PR does and why.
 If it fixes an issue, link with `Closes #<issue-number>`.
 
 ## Type of Change
